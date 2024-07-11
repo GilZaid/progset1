@@ -1,0 +1,14 @@
+---
+:id: 232614871
+:submitters:
+- :name: Jinho Park
+  :email: jinhopark@college.harvard.edu
+- :name: Gil'i Zaid
+  :email: gilizaid@college.harvard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-02-21 01:18:40.312378000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-02-20 17:18:40.312378000 Z
+:status: processed
+:score: 124.0
